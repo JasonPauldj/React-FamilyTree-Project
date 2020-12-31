@@ -1,0 +1,8 @@
+export const FETCH_MEMBERS ='FETCH_MEMBERS';
+export const SELECT_MEMBER = 'SELECT_MEMBER';
+export const FETCH_PARENTS ='FETCH_PARENTS';
+export const POST_MEMBER ='POST_MEMBER';
+export const ADD_MEMBER='ADD_MEMBER';
+export const GET_MEMBERS='GET_MEMBERS';
+export const UPDATE_MEMBER='UPDATE_MEMBER';
+export const PUT_MEMBER ='PUT_MEMBER'
